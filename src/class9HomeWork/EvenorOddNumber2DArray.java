@@ -15,9 +15,5 @@ public class EvenorOddNumber2DArray {
             }System.out.println();
         }
 
-
-
-
-
     }
 }
